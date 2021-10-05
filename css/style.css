@@ -1,0 +1,28 @@
+h3{
+	padding-top: 2%;
+}
+
+li.nav-item{
+	padding-top: 5%;
+}
+
+.active a{
+	background-color: #ffffff;
+}
+
+div.row{
+	margin: 5% 5%;
+}
+
+body{
+	background-color: #000000;
+}
+
+footer{
+	bottom: 0;
+	padding-top: 60px;
+}
+
+footer p{
+	text-align: center;
+}
